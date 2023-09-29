@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Prueba con hubo</title>
+    <link>https://example.org/posts/</link>
+    <description>Recent content in Posts on Prueba con hubo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2023 20:02:43 +0200</lastBuildDate><atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo_post</title>
+      <link>https://example.org/posts/segundo_post/</link>
+      <pubDate>Fri, 22 Sep 2023 20:02:43 +0200</pubDate>
+      
+      <guid>https://example.org/posts/segundo_post/</guid>
+      <description>Veniam nulla cillum aute ullamco aliqua sunt magna duis irure exercitation ipsum irure ut. Lorem aute dolor non pariatur tempor aliqua cupidatat cupidatat magna. Ullamco ut cillum cillum sunt voluptate do. Amet excepteur eu irure ea culpa esse mollit quis. Dolore cupidatat nisi ea consequat est proident in.
+Qui veniam dolore mollit laborum quis ea occaecat commodo laboris exercitation adipisicing. Ad ullamco culpa ipsum in fugiat qui aliquip reprehenderit proident. Eu mollit veniam dolor laboris nostrud.</description>
+    </item>
+    
+    <item>
+      <title>Primer_post</title>
+      <link>https://example.org/posts/primer_post/</link>
+      <pubDate>Fri, 22 Sep 2023 20:02:21 +0200</pubDate>
+      
+      <guid>https://example.org/posts/primer_post/</guid>
+      <description>Sit deserunt sunt commodo ut do. Quis mollit aliquip Lorem esse excepteur veniam sint incididunt. Commodo sit labore ullamco quis nisi eiusmod excepteur voluptate culpa sunt quis sint. Proident voluptate id cillum ex voluptate exercitation. Adipisicing est reprehenderit magna minim velit excepteur nulla. Tempor ex proident do minim quis amet labore Lorem do dolore.
+Eiusmod deserunt magna et eu non qui esse enim esse nostrud reprehenderit. Anim enim duis amet nisi amet.</description>
+    </item>
+    
+  </channel>
+</rss>
